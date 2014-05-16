@@ -3,6 +3,9 @@ AngularJs active menu
 
 Create interactive menu in angularjs app.
 
+## Demo
+![alt tag](https://www.dropbox.com/s/o56xfmfnrpdo395/ScreenFlow%20%281%29.gif)
+
 __My AngularJs ver. 1.2.16__
 
 ## Instalation
