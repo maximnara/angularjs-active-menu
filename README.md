@@ -11,7 +11,9 @@ __My AngularJs ver. 1.2.16__
 
 ## How to use
 Insert __us-active-menu__ tag in menu element like this ```<button us-active-menu="MainCtrl">Menu Item</button>```. 
+
 __MainCtrl__ it's controller name. If your menu item should be active on different controllers you can specify them as an array, like: ```us-active-menu="['MainCtrl', 'SettingsCtrl', 'FriendsCtrl']"```.
+
 Directive will add class __active__ on element when current controller and specified will be equal.
 
 ## Full example
